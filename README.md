@@ -25,4 +25,5 @@ Ensure you have the following installed on your system:
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm start  //based on the your module type || use npm run dev after setting the module type
+   ```
