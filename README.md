@@ -1,29 +1,18 @@
-# To-Do-List<hr>
+# To-Do-List
 A simple and interactive To-Do List application built using **React**. 
 
-## Features<hr>
+## Features
 - **Add Tasks**: Input a task and add it to the to-do list.
 - **Delete Tasks**: Remove a task from the to-do list.
 - **Dynamic List**: The list updates dynamically as tasks are added or removed.
 
-## Folder Structure<hr>
-project-folder
-│
-├── components/
-│   ├── InputArea.js
-│   ├── TodoItem.js
-│
-├── App.js
-├── index.js
-├── package.json
-
-## Prerequisites<hr>
+## Prerequisites
 
 Ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-## Installation<hr>
+## Installation
 
 1. Clone this repository:
    ```bash
